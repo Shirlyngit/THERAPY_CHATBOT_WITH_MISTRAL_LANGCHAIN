@@ -1,22 +1,22 @@
 # Therapy Chatbot Assistant
 
+![Chainlit Screenshot](results/Chatbot Screenshot 1.png)
+
+
 The Therapy Chatbot Assistant is a project aimed at providing personalized therapy support through a conversational interface. Leveraging two models, GPT-4 through its API and Mistral-7B for local testing, this chatbot utilizes a RAG (Retrieval-Augmented Generation) implementation of Large Language Models (LLMs) for accurate responses.
 I also used Chainlit to build a production ready Conversational AI interface.
 
-## File Descriptions
-1.) data/Reading 2 Text Analytics for Beginners using NLTK_240116_161801.pdf - Document on Natural Language Processing to test out the model on a smaller dataset.
+## File Descriptions.
 
-2.) data/Cognitive Behavioral Therapy Made Simple 10 Strategies for Managing Anxiety, Depression, Anger, Panic, and Worry (Seth J. Gillihan).pdf - Document on Cognitive behavioural therapy to train final model.
+1.) Results - Folder containing screenshots of implementation of the model on a user interface.
 
-3.) Results - Folder containing screenshots of implementation of the model on a user interface.
+2.) NLP_Tests - Folder containing different model implementations of NLP tasks with some being RAG-based.
 
-4.) NLP_Tests - Folder containing different model implementations of NLP tasks with some being RAG-based.
+3.) therapy_mistral_final_model.py - File containing therapy-based Mistral Model. 
 
-5.) therapy_mistral_final_model.py - File containing therapy-based Mistral Model. 
+4.) therapy_gpt_final_model.py - Main file containing therapy-based GPT-4 Model. Takes shorter time to run than Mistral.
 
-6.) therapy_gpt_final_model.py - Main file containing therapy-based GPT-4 Model. Takes shorter time to run than Mistral.
-
-7.) requirement.txt - List of libraries to install.
+5.) requirement.txt - List of libraries to install.
 
 ## Features
 
