@@ -35,7 +35,7 @@ I also used Chainlit to build a production ready Conversational AI interface.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Stephen-Echessa/therapy-chatbot.git
+    git clone https://github.com/Shirlyngit/THERAPY_CHATBOT_WITH_MISTRAL_LANGCHAIN
     ```
 
 2. Install dependencies:
