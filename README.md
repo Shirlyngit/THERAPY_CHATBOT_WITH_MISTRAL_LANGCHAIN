@@ -1,6 +1,10 @@
 # Therapy Chatbot Assistant
 
-![Chainlit Screenshot](results/Chatbot Screenshot 1.png)
+![Chatbot Screenshot](results/Chatbot%20Screenshot%201.png)
+![Chatbot Screenshot](results/Chatbot%20Screenshot%202.png)
+![Chatbot Screenshot](results/Chatbot%20Screenshot%203.png)
+
+
 
 
 The Therapy Chatbot Assistant is a project aimed at providing personalized therapy support through a conversational interface. Leveraging two models, GPT-4 through its API and Mistral-7B for local testing, this chatbot utilizes a RAG (Retrieval-Augmented Generation) implementation of Large Language Models (LLMs) for accurate responses.
